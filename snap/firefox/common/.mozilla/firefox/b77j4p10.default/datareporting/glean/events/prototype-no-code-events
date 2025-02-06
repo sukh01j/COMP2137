@@ -1,0 +1,2 @@
+{"timestamp":3187245,"category":"browser.usage","name":"interaction","extra":{"widget_id":"back-button","flow_id":"{7c3758fc-c68f-4d69-b496-5e3d1fe05694}","source":"nav-bar","glean_timestamp":"1738884405237"},"execution_counter":5}
+{"timestamp":3191880,"category":"browser.usage","name":"interaction","extra":{"source":"tabs-bar","flow_id":"{7c3758fc-c68f-4d69-b496-5e3d1fe05694}","widget_id":"tab-close-button","glean_timestamp":"1738884409872"},"execution_counter":5}
